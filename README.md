@@ -11,7 +11,7 @@ nmap -p- 192.168.122.170
 
 ![Sunset%20Noontide%20e8e60a81a2b44c76ae3c0e157ea3f832/Untitled%201.png](Sunset%20Noontide%20e8e60a81a2b44c76ae3c0e157ea3f832/Untitled%201.png)
 
-nmap -sV -.168.122.170
+nmap -sV -A 192.168.122.170
 
 ![Sunset%20Noontide%20e8e60a81a2b44c76ae3c0e157ea3f832/Untitled%202.png](Sunset%20Noontide%20e8e60a81a2b44c76ae3c0e157ea3f832/Untitled%202.png)
 
